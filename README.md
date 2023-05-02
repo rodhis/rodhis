@@ -29,7 +29,7 @@
   <img align="center" alt="express icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
   <img align="center" alt="mysql icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
   <img align="center" alt="mongoDB icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="outsystems icon" height="30" width="40" src="https://avatars.githubusercontent.com/u/2916417?s=200&v=4" />  
+  <img align="center" alt="outsystems icon" height="30" width="30" src="https://cdn.dribbble.com/users/1169868/avatars/normal/e546fafff6f48ae43bdbc25ab2460fcb.png?1475594720" />  
 </div>
 
   
