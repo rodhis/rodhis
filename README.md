@@ -15,7 +15,7 @@
 | :-: | :-: |
   
 <div style="display: inline_block" align="center">
-  <h3 align="center">Skills in learning:</h3>  
+  <h3 align="center">Learning Skills</h3>  
   <img align="center" alt="html icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="css icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> 
   <img align="center" alt="js icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
