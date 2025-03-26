@@ -1,9 +1,10 @@
 <h1 align="center"> Hello there! I'm Rodrigo! <img src="https://i.redd.it/26s9eejm8vz51.png" width="60px"></h1>
-<h3 align="center"> Full Stack Developer. Main technologies: React, Spring boot.</h3> 
+<h3 align="center"> Full Stack Developer. Main technologies: React, Next, Node.</h3> 
 <div align="center">
 
   <a href = "mailto:rodrigonoliva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
   <a href="https://www.linkedin.com/in/rodrigo-novais-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a> 
+  <a href="https://next-blog-fawn-sigma.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Blog-blue" target="_blank" /></a> 
   </div>
   &nbsp;
 <p align="center"><img alt="All rights reserved to GameStop: Rise of the Players (https://www.behance.net/gallery/143584307/GameStop-Rise-of-the-Players)" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/7ee23b143584307.627d1059832ae.gif" width="50%" </p>
