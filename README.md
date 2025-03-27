@@ -32,9 +32,12 @@
     src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
   <img align="center" alt="mysql icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
   <img align="center" alt="mongoDB icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
+  <img align="center" alt="vite icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" />
   <img align="center" alt="aws icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <h3 align="center">Other Skills I have some knowledge of</h3>  
   <img align="center" alt="vue icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
+  <img align="center" alt="jest icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />
+  <img align="center" alt="vitest icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" />
   <img align="center" alt="java icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
   <img align="center" alt="spring boot icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" />
 </div>
