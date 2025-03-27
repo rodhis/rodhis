@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3f95dff4-c64e-4de4-8cbd-5efb65280310)<h1 align="center"> Hello there! I'm Rodrigo! <img src="https://i.redd.it/26s9eejm8vz51.png" width="60px"></h1>
+<h1 align="center"> Hello there! I'm Rodrigo! <img src="https://i.redd.it/26s9eejm8vz51.png" width="60px"></h1>
 <h3 align="center"> Full Stack Developer. Main technologies: React, Next.</h3> 
 <div align="center">
 
