@@ -9,11 +9,13 @@
   &nbsp;
 <p align="center"><img alt="All rights reserved to GameStop: Rise of the Players (https://www.behance.net/gallery/143584307/GameStop-Rise-of-the-Players)" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/7ee23b143584307.627d1059832ae.gif" width="50%" </p>
 
+<div align="center">
 | ![](https://github-readme-stats.vercel.app/api?username=rodhis&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodhis&layout=compact&langs_count=7&theme=github_dark) | 
 | :-: | :-: |
 
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodhis&theme=github_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=rodhis&theme=github_dark&hide_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD) |
 | :-: | :-: |
+</div>
   
 <div style="display: inline_block" align="center">
   <h3 align="center">Main Skills</h3>  
