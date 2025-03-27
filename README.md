@@ -1,4 +1,4 @@
-<h1 align="center"> Hello there! I'm Rodrigo! <img src="https://i.redd.it/26s9eejm8vz51.png" width="60px"></h1>
+![image](https://github.com/user-attachments/assets/3f95dff4-c64e-4de4-8cbd-5efb65280310)<h1 align="center"> Hello there! I'm Rodrigo! <img src="https://i.redd.it/26s9eejm8vz51.png" width="60px"></h1>
 <h3 align="center"> Full Stack Developer. Main technologies: React, Next.</h3> 
 <div align="center">
 
@@ -26,24 +26,25 @@
   <img align="center" alt="js icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="typescript icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="react icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />  
-  <img align="center" alt="next icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" /> 
-  <img align="center" alt="bootstrap icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="tailwindcss icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" />
-  <img align="center" alt="sass icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
+  <img align="center" alt="next icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" /> 
+  <img align="center" alt="bootstrap icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="tailwindcss icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="center" alt="sass icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
   <h3 align="center">Secondary Skills</h3>  
-   <img align="center" alt="nodeJS icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
+   <img align="center" alt="nodeJS icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="express icon" height="30" width="40" 
-    src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
-  <img align="center" alt="mysql icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="mongoDB icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="vite icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" />
-  <img align="center" alt="aws icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
+  <img align="center" alt="mysql icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="postgre icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="mongoDB icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+  <img align="center" alt="vite icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" />
+  <img align="center" alt="aws icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <h3 align="center">Other Skills I have some knowledge of</h3>  
   <img align="center" alt="vue icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="jest icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />
-  <img align="center" alt="vitest icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" />
-  <img align="center" alt="java icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
-  <img align="center" alt="spring boot icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" />
+  <img align="center" alt="jest icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
+  <img align="center" alt="vitest icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg" />
+  <img align="center" alt="java icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img align="center" alt="spring boot icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
 </div>
 
   
