@@ -46,9 +46,3 @@
   <img align="center" alt="java icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   <img align="center" alt="spring boot icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
 </div>
-
-  
-    
- [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
- 
-![Snake animation](https://github.com/rodhis/rodhis/blob/output/github-contribution-grid-snake.svg) 
